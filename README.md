@@ -41,14 +41,6 @@ I enjoy transforming creative ideas into practical digital experiences, from edu
 
 An interactive aerospace learning application designed to make complex scientific concepts understandable through simulations, experimentation and visual learning.
 
-**✨ Key Highlights**
-
-- ✈️ Flight and projectile motion simulations
-- 🌍 Interactive orbital mechanics explorer
-- 🚀 Rocket propulsion laboratory
-- 🌬️ Aerodynamics simulations
-- 🌌 Astronomy Atlas
-- 🧪 Interactive scientific challenges
 
 **🛠️ Technology Stack**
 
@@ -71,14 +63,6 @@ An interactive aerospace learning application designed to make complex scientifi
 
 A digital preparation workspace designed to help engineering aspirants practice questions, explore chapter-wise analytics and track their learning progress.
 
-**✨ Key Highlights**
-
-- 📚 Interactive question-practice interface
-- 📈 Chapter-wise and subject-wise exploration
-- 🎯 Performance tracking and analytics
-- 🔥 Chapter Heatmap and weightage explorer
-- 🔖 Question review and bookmarking
-- 📱 Responsive desktop and mobile interface
 
 **🛠️ Technology Focus**
 
@@ -101,14 +85,6 @@ A digital preparation workspace designed to help engineering aspirants practice 
 
 An immersive 3D astronomical exploration experience that brings the wonders of the universe closer through interactive storytelling and visual science.
 
-**✨ Key Highlights**
-
-- 🌠 Cinematic 3D space environment
-- 🪐 Interactive solar system exploration
-- ☀️ Planetary information and astronomy
-- 🕳️ Black holes and deep-space exploration
-- 🔭 Interactive cosmic scale experience
-- 🌌 Astronomical discoveries and references
 
 **🛠️ Technology Stack**
 
