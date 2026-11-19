@@ -52,31 +52,10 @@ An interactive aerospace learning application designed to make complex scientifi
 
 ---
 
-<div align="center">
-
-### 📊 02 — JEE INSIGHTS PRO
-**Engineering Entrance Preparation Platform**
-
-[![JEE Insights](https://img.shields.io/badge/EXPLORE-JEE_INSIGHTS_PRO-00A6A6?style=for-the-badge&logo=googleanalytics)](https://github.com/ver-dev9/JEE-Insights-Pro)
-
-</div>
-
-A digital preparation workspace designed to help engineering aspirants practice questions, explore chapter-wise analytics and track their learning progress.
-
-
-**🛠️ Technology Focus**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Web Development](https://img.shields.io/badge/Web_Development-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
-
-[**→ VIEW PROJECT ON GITHUB**](https://github.com/ver-dev9/JEE-Insights-Pro)
-
----
 
 <div align="center">
 
-### 🌌 03 — UNIVERSE WITHIN
+### 🌌 02 — UNIVERSE WITHIN
 **A Journey Beyond the Visible**
 
 [![Universe Within](https://img.shields.io/badge/EXPLORE-UNIVERSE_WITHIN-9B59B6?style=for-the-badge&logo=sololearn)](https://github.com/ver-dev9/Universe-Within)
