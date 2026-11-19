@@ -77,6 +77,35 @@ An immersive 3D astronomical exploration experience that brings the wonders of t
 
 ---
 
+
+<div align="center">
+
+### ⌚ 03 — CHRONOS
+**The Art of Time**
+
+[![Chronos](https://img.shields.io/badge/EXPLORE-CHRONOS-C7A76B?style=for-the-badge&logo=threedotjs&logoColor=black)](https://github.com/ver-dev9/chronos-luxury-watch)
+[![Live Demo](https://img.shields.io/badge/LIVE-DEMO-E4C88D?style=for-the-badge&logo=githubpages&logoColor=black)](https://ver-dev9.github.io/chronos-luxury-watch/)
+
+</div>
+
+An immersive luxury watch showcase with cinematic 3D product visualization, a scroll-controlled exploded mechanical watch, a live configurator and GLSL shader effects, told across ten scroll-driven chapters. Every watch is procedurally modelled in real time.
+
+
+**🛠️ Technology Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=react)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![GLSL](https://img.shields.io/badge/GLSL-5586A4?style=flat-square)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[**→ VIEW PROJECT ON GITHUB**](https://github.com/ver-dev9/chronos-luxury-watch) • [**→ LIVE DEMO**](https://ver-dev9.github.io/chronos-luxury-watch/)
+
+---
+
 # 💻 TECHNOLOGIES & TOOLS
 
 ### ⚡ Currently Exploring
